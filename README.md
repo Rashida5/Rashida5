@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Spring Framework ,Angular**
 
 - 📫 How to reach me **RAMO.21122019@gmail.com**
-
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/rashida-mohamed/overlay/1715948533758/single-media-viewer/?profileId=ACoAADkPytgB6LR-ct9PSKlyFfK0GpFv34XI-_s)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rashida mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashida mohamed" height="30" width="40" /></a>
